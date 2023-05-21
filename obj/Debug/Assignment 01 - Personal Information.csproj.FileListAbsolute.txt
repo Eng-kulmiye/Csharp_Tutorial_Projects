@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\bin\Debug\Assignment 01 - Personal Information.exe.config
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\bin\Debug\Assignment 01 - Personal Information.exe
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\bin\Debug\Assignment 01 - Personal Information.pdb
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment_01___Personal_Information.PersonalInfo.resources
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment_01___Personal_Information.Properties.Resources.resources
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.exe
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.pdb
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\bin\Debug\MaterialSkin.dll
+C:\Users\hp\source\repos\Assignment Projects\Assignment 01 - Personal Information\obj\Debug\Assignment 01 - Personal Information.csproj.CopyComplete
